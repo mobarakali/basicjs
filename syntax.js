@@ -8,8 +8,10 @@
 
         console.log(10+y)
 
+       
         x = "Jhon Doe";
         x = "Jhony Doe";
+        
 // + - * /
         (5+6) * 10; // expression
 // KeyWord = Reserved Word.

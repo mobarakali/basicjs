@@ -49,4 +49,8 @@ y
 let z = x / y; // = assignment operator
  z//
 
+ Join Zoom Meeting 
+ https://us05web.zoom.us/j/89496002213?pwd=bGo1b1FSK28vUU8wYWhjZExmOE8vZz09 
+ Meeting ID: 894 9600 2213 
+ Passcode: wse2013 
  

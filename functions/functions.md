@@ -59,7 +59,7 @@ Here is an extensive list of JavaScript function-related terms. I'll provide a d
    Explanation:
    The `add` function takes two arguments, `a` and `b`, and returns their sum using the `return` keyword. The returned value, in this case, is `8`, which is assigned to the variable `result` and then printed to the console.
 
-5. Function declaration: A way to define a named function using the "function" keyword.
+5. Function declaration: A way to define a named function using the "function" keyword. 
 
    Code Example:
    ```javascript
@@ -73,6 +73,8 @@ Here is an extensive list of JavaScript function-related terms. I'll provide a d
 
    Explanation:
    The `multiply` function is declared using the `function` keyword, followed by the function name, parameters, and function body. In this example, it multiplies the arguments `4` and `6` together and returns the result.
+
+   **[Read more](function_decleration.md)** about Fucntion Decleration
 
 6. Function expression: A way to define a function as a value assigned to a variable or passed as an argument.
 
